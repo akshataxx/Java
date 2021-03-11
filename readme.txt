@@ -1,5 +1,5 @@
- Akshata Dhuraji, c3309266
- Operating System Assignment2 - Problem 1 : Sharing the Bridge  
+Akshata
+Sharing the Bridge  
  
  Class Name: P1
  Description: P1 class reads the data from input file, creates bridge and farmer instances based on the number defined in the file and bridge instances. Main class starts the farmer thread
