@@ -1,5 +1,5 @@
-// Java Program to illustrate reading from FileReader 
-// using BufferedReader 
+// Java Program to illustrate reading File input 
+//running different algorithms and returning the values as per assignment specifications
 import java.io.*;
 import java.util.Scanner;
 import java.lang.String; 
